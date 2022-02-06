@@ -1,0 +1,8 @@
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\bin\Debug\lab1_adv.exe.config
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\bin\Debug\lab1_adv.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\bin\Debug\lab1_adv.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\obj\Debug\lab1_adv.csproj.AssemblyReference.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\obj\Debug\lab1_adv.csproj.SuggestedBindingRedirects.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\obj\Debug\lab1_adv.csproj.CoreCompileInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\obj\Debug\lab1_adv.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab1_adv\lab1_adv\obj\Debug\lab1_adv.pdb

@@ -1,0 +1,8 @@
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\bin\Debug\(task_NADER).exe.config
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\bin\Debug\(task_NADER).exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\bin\Debug\(task_NADER).pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\obj\Debug\(task_NADER).csproj.AssemblyReference.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\obj\Debug\(task_NADER).csproj.SuggestedBindingRedirects.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\obj\Debug\(task_NADER).csproj.CoreCompileInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\obj\Debug\(task_NADER).exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\(task_NADER)\(task_NADER)\obj\Debug\(task_NADER).pdb
