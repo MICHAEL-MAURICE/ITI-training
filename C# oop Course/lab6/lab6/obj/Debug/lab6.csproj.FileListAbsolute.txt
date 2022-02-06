@@ -1,0 +1,8 @@
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\bin\Debug\lab6.exe.config
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\bin\Debug\lab6.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\bin\Debug\lab6.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\obj\Debug\lab6.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\lab6\lab6\obj\Debug\lab6.pdb
