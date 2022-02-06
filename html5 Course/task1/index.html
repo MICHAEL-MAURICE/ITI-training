@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1_ Form validation</title>
+</head>
+<body>
+    <form  action="#" autocomplete="off" oninput="res.value= parseInt(salary.value)*10">
+
+<label for="name">Name</label>  <input type="text"  required  id="name"><br><br>
+
+<label for="email">Email</label>  <input type="email"  required  id="email"><br><br>
+<label for="Password">Passw</label>  <input type="password"  required  id="password" minlength="8"><br><br>
+
+<label for="salary">Salary</label>  <input type="range"  required  id="salary"> <output name="res" id='res'>0</output>
+
+<label >$</label>
+
+
+<br><br>
+
+<label for="age">Age</label>  <input type="number"  required  id="age" min="22" ><br><br>
+
+<input type="submit">
+    </form>
+    <script src="main.js"></script>
+</body>
+</html>
