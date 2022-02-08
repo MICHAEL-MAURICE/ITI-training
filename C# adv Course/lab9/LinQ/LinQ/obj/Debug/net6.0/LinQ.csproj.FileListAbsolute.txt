@@ -1,0 +1,15 @@
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\bin\Debug\net6.0\LinQ.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\bin\Debug\net6.0\LinQ.deps.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\bin\Debug\net6.0\LinQ.runtimeconfig.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\bin\Debug\net6.0\LinQ.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\bin\Debug\net6.0\ref\LinQ.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\bin\Debug\net6.0\LinQ.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.csproj.AssemblyReference.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfoInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfo.cs
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.csproj.CoreCompileInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\ref\LinQ.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\LinQ\LinQ\obj\Debug\net6.0\LinQ.genruntimeconfig.cache

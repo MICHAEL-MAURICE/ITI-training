@@ -1,0 +1,11 @@
+G:\projects\final C#\day2\task\task\bin\Debug\task.exe.config
+G:\projects\final C#\day2\task\task\bin\Debug\task.exe
+G:\projects\final C#\day2\task\task\bin\Debug\task.pdb
+G:\projects\final C#\day2\task\task\obj\Debug\task.csproj.AssemblyReference.cache
+G:\projects\final C#\day2\task\task\obj\Debug\task.csproj.SuggestedBindingRedirects.cache
+G:\projects\final C#\day2\task\task\obj\Debug\task.Properties.Resources.resources
+G:\projects\final C#\day2\task\task\obj\Debug\task.csproj.GenerateResource.cache
+G:\projects\final C#\day2\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+G:\projects\final C#\day2\task\task\obj\Debug\task.exe
+G:\projects\final C#\day2\task\task\obj\Debug\task.pdb
+G:\projects\final C#\day2\task\task\obj\Debug\task.Note_editor.resources

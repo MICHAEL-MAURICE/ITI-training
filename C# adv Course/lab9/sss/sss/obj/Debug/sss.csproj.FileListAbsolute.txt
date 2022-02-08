@@ -1,0 +1,16 @@
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\sss.exe.config
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\sss.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\sss.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.csproj.SuggestedBindingRedirects.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.Form1.resources
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.Properties.Resources.resources
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.csproj.GenerateResource.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.csproj.CoreCompileInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\EntityFramework.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\EntityFramework.SqlServer.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\EntityFramework.xml
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\bin\Debug\EntityFramework.SqlServer.xml
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.csproj.AssemblyReference.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\c#\advanced_labs\lab9\sss\sss\obj\Debug\sss.csproj.CopyComplete
